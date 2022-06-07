@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="next">Войти</string>
+    <string name="title">Авторизация</string>
+    <string name="email">Email</string>
+    <string name="telephone">Телефон</string>
+    <string name="emailHint">Введите email</string>
+    <string name="telephoneHint">Введите телефон</string>
+    <string name="pass">Пароль</string>
+    <string name="passHint">Введите пароль</string>
+    <string name="passCheck">Проверка пароля</string>
+    <string name="passCheckHint">Повторите пароль</string>
+</resources>
